@@ -1,14 +1,14 @@
 import React from "react";
 
 const uniforms = [
-  { title: "Seragam Hari Senin", description: "Seragam putih abu-abu yang digunakan pada hari Senin untuk upacara bendera.", image: "/images/1_20250703_161002_0000.png" },
-  { title: "Seragam Hari Selasa", description: "Seragam batik khas sekolah yang dipakai setiap hari Selasa.", image: "/images/2_20250703_161002_0001.png" },
-  { title: "Seragam Hari Rabu", description: "Seragam olahraga yang digunakan saat pelajaran jasmani.", image: "/images/3_20250703_161002_0002.png" },
-  { title: "Seragam Hari Kamis", description: "Seragam pramuka lengkap yang dikenakan setiap hari Kamis.", image: "/images/4_20250703_161002_0003.png" },
-  { title: "Seragam Hari Jumat", description: "Seragam muslim/muslimah yang dikenakan pada hari Jumat.", image: "/images/5_20250703_161002_0004.png" },
-  { title: "Seragam Ekstrakurikuler", description: "Seragam khusus yang dipakai saat mengikuti kegiatan ekstrakurikuler.", image: "/images/6_20250703_161002_0005.png" },
-  { title: "Seragam Khusus", description: "Seragam khusus untuk keperluan tertentu seperti lomba atau acara resmi.", image: "/images/7_20250703_161002_0006.png" },
-  { title: "Seragam Cadangan", description: "Seragam alternatif yang dapat digunakan saat seragam utama sedang dicuci.", image: "/images/8_20250703_161002_0007.png" }
+  { title: "Seragam Hari Senin", image: "/images/1_20250703_161002_0000.png" },
+  { title: "Seragam Hari Selasa", image: "/images/2_20250703_161002_0001.png" },
+  { title: "Seragam Hari Rabu", image: "/images/3_20250703_161002_0002.png" },
+  { title: "Seragam Hari Kamis", image: "/images/4_20250703_161002_0003.png" },
+  { title: "Seragam Hari Jumat", image: "/images/5_20250703_161002_0004.png" },
+  { title: "Seragam Olahraga" , image: "/images/6_20250703_161002_0005.png" },
+  { title: "Seragam Khusus", image: "/images/7_20250703_161002_0006.png" },
+  { image: "/images/8_20250703_161002_0007.png" }
 ];
 
 export default function App() {
